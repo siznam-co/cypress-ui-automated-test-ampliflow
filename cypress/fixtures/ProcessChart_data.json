@@ -1,0 +1,66 @@
+{
+    "creates": {
+        "subProcessDropdown": "d"
+    },
+    "creates1": {
+        "addUsersMultipleSelect": "user_"
+    },
+    
+    "ResponsibleUser": {
+        "addUsersMultipleSelect": "qabot"
+    },
+    "InvolvedTeams":{
+        "addUsersMultipleSelectTeam": "qabot"
+    },
+    "creates2": {
+        "subProcessDropdown": "a"
+    },
+    "AddUser":{
+        "User":"Ab"
+    },
+    "CreatesAll": {
+        "NewSupport1": "New Sub Process 1=1",
+        "NewSupport2": "New Sub Process 2=2",
+        "NewSupport3": "New Sub Process 3=3",
+        "NewSupport4": "New Sub Process 4=4",
+        "NewSupport5": "New Sub Process 5=5",
+        "NewSupport6": "New Sub Process 6=6",
+        "What": "What",
+        "Why": "Why",
+        "Overview": "overview added from my side"
+    },
+    "CreatesAll1": {
+        "What": "What",
+        "Why": "Why",
+        "Overview": "overview added from my side"
+    },
+    "IdentityRisks": {
+        "IdentityRisks1": "Identifiy risk 1",
+        "IdentityRisks2": "Identifiy risk 2",
+        "IdentityRisks3": "Identifiy risk 3",
+        "IdentityTarget1": "Identifiy Target 1",
+        "IdentityTarget2": "Identifiy Target 2",
+        "IdentityTarget3": "Identifiy Target 3",
+        "Input1": "Input 1 added",
+        "Input2": "Input 2 added",
+        "Output1": "Output 1 added",
+        "Output2": "Output 2 added"
+    },
+    "Targets": {
+        "Target2": "Identifiy Target 2"
+    },
+    "Subprocess":{
+        "Subprocess1":"Sub Process 1 details",
+        "Subprocess2":"Sub Process 2 details",
+        "Subprocess3":"Sub Process 3 details",
+        "Subprocess4":"Sub Process 4 details",
+        "Subprocess5":"Sub Process 5 details",
+        "Subprocess6":"Sub Process 6 details",
+        "Subprocess7":"Sub Process 7 details",
+        "Subprocess8":"Sub Process 8 details",
+        "Subprocess9":"Sub Process added for 9th"
+
+    }
+}
+
+

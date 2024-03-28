@@ -1,0 +1,83 @@
+{
+    "creates": {
+        "templateName_UNIQUE": "Template_3",
+        "summary": "This Template is created by QA Bot."
+    },
+    "saveAndPublishInvalid": {
+        "templateNameBorderError": "invalid",
+        "templateNameTextErrorMessage": {
+            "field": 1,
+            "errorMessage": "The Name field is required."
+        }
+    },
+    "saveAndPublishValid": {},
+    "newStep": {
+        "stepTaskListMultipleClicks": 3,
+        "addTaskMultipleClicks": 2
+    },
+    "stepData": {
+        "stepName": "QA Bot Step",
+        "addTeamsMultipleSelect": "Team_",
+        "stepDescription": "QA Bot Step Description"
+    },
+    "addActivity": {
+        "activityLabelInput": " :: Perform below tasks",
+        "activityPhotoPlaceHolder": "input[id*='photo-']",
+        "activityDescriptionInput": "Test activity description for :: ",
+        "attachementDropdown": "select.attachment-dropdown-menu",
+        "placeholder": "#placeholder",
+        "addTaskMultipleClicks": 2,
+        "Tasklist": {
+            "activityLabelMultipleInputs": "QA Bot: Perform below tasks :: ",
+            "activityDescriptionMultipleInputs": "Test activity description :: ",
+            "task1MultipleInputs": "Perform Smoke Testing :: ",
+            "task2MultipleInputs": "Perform Exploratory Testing :: ",
+            "task3MultipleInputs": "Perform Regression Testing :: "
+        },
+        "Value": "Total tests",
+        "Text": "Module name being tested",
+        "Photo": "",
+        "Selection": "Smoke, Exploratory, Regression",
+        "Customers": "Enter Customer",
+        "Suppliers": "Enter Supplier",
+        "Items": "Enter Items",
+        "Barcodes": "",
+        "saveActivityBtn": "button.step-activity-save-btn"
+    },
+    "saveStepInvalid": {
+        "stepNameBorderError": "invalid",
+        "stepNameTextErrorMessage": {
+            "field": 1,
+            "errorMessage": "Required"
+        },
+        "selectTeamTextErrorMessage": {
+            "field": 1,
+            "errorMessage": "At least one team is required"
+        },
+        "activityLabelBorderError": "invalid",
+        "activityLabelTextErrorMessage": {
+            "field": 3,
+            "errorMessage": "Required"
+        },
+        "task1BorderError": "invalid",
+        "task1TextErrorMessage": {
+            "field": 3,
+            "errorMessage": "Required"
+        },
+        "task2BorderError": "invalid",
+        "task2TextErrorMessage": {
+            "field": 3,
+            "errorMessage": "Required"
+        },
+        "task3BorderError": "invalid",
+        "task3TextErrorMessage": {
+            "field": 3,
+            "errorMessage": "Required"
+        }
+    },
+    "saveStepValid": {},
+    "details": {
+        "templateName_UNIQUE": "Template_3",
+        "summary": "This Template is created by QA Bot."
+    }
+}

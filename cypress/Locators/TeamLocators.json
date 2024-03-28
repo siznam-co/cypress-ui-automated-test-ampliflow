@@ -1,0 +1,25 @@
+{
+    "creates": {
+        "teamName_UNIQUE": "#name",
+        "addUsersMultipleSelect": {
+            "dropdown": "div.app-select-dropdown__indicator .accordion-button",
+            "input": "#userIds",
+            "options": "div.app-select-dropdown__option"
+        }, 
+        "description": "#description",
+        "saveBtn": "button.btn.btn__success"
+    },
+
+    "editBtn": ".teams-details--main-footer button.btn-transparent",
+    "removeMultipleUsers": "div.app-select-dropdown__multi-value__remove",
+    "archiveBtn": ".teams-details--main-footer button.btn__bordered", 
+    "modalConfrimBtn": "div.modal-footer button.btn__blue",
+    "deleteBtn": ".teams-details--main-footer button.btn__danger",
+    
+    "details": {
+        "teamName_UNIQUE": "div.teams-details--main-header h4",
+        "description": "ul.teams-details--main-body li:nth-child(2) p",
+        "addedUsersBeVisible": "ul.teams-details--main-body li:nth-child(4) .d-flex"
+    },
+    "addTeamBtn": "div.page--title button.btn"
+}

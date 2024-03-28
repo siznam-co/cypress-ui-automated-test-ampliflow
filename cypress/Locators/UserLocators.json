@@ -1,0 +1,19 @@
+{
+    "creates": {
+        "email_UNIQUE": "#email",
+        "userName_UNIQUE": "#userName",
+        "password": "#password", 
+        "confirmPassword": "#password2",
+        "saveBtn": "button.btn.btn__success"
+    },
+    "details": {
+        "userName_UNIQUE": "div.user-details--main-header h4",
+        "email_UNIQUE": "div.user-details--main-header h5"    
+    },
+    "editBtn": ".user-details--main-footer button.btn-transparent",
+    "disableBtn": ".user-details--main-footer button.btn__danger",
+    "modalConfrimBtn": "div.modal-footer button.btn__danger",
+    
+    "addUserBtn": "div.page--title button.btn",
+    "@createUser": 200
+}
